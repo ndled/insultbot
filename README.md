@@ -7,4 +7,4 @@ Project started the helloworld bot instructions here - https://tipinecone.gitboo
 You'll need to add a secrets.py file that contains a consumer_key, consumer_secret, access_key, and access_secret for authorization with Twitter.
 
 ## Requirements:
-*tweepy
+* tweepy
