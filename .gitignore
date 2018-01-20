@@ -1,3 +1,4 @@
 secrets.py*
-insultBot.lo
+insultBot.log
 *pycache*
+.DS_Store
